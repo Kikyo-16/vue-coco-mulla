@@ -2,7 +2,7 @@
   <div id="app" style="background-color: #ffffff">
   <h1 class="title">Content-based Controls for Music Large-scale Language Modeling</h1>
     <div class="author">
-      Liwei Lin, Gus Xia, Junyan Jiang @<a href="http://www.musicxlab.com/">Music X Lab</a>
+      Liwei Lin, Gus Xia, Junyan Jiang, Yixiao Zhang @<a href="http://www.musicxlab.com/">Music X Lab</a>
   </div>
   <div class="card">
     <div class="sub-sec">
